@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+I grew up in Manurewa, South Auckland and attended Manurewa High School. I went on to attend Whitecliffe College of Arts and Design for two years before cross-crediting to Massey University to complete a Bachelor of Design with first class honours majoring in Visual Communication. I am half Filipino and one quarter Lebanese. Coming from a diverse family and growing up in a diverse area has taught me to appreciate culture and diversity, especially in the work place.
+
+My career in design began as an in-house designer at a manufacturing company. After gaining two years experience, I then moved to London where I worked as a Designer and Marketing Executive on a 6 month contract. I then travelled around Europe and Hong Kong before moving back to New Zealand to focus on my career. 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
