@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 
 body {
-  font-family: sans-serif;
+  font-family: lato;
   color: #eee;
+  font-size: 10px;
 }
 
