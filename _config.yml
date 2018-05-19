@@ -3,8 +3,5 @@ author:
 email: 
 description: > # this means to ignore newlines until "twitter_username:"
   Designer of things.
-  
-  minima:
-  date_format: "%b %-d, %Y"
 
 theme: minima
