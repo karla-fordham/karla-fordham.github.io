@@ -5,7 +5,7 @@ I am half Filipino/Lebanese. I grew up in South Auckland where I attended Manure
 
 I've learnt more from my failures than anything else in life. There's something to be said for being thrown in the deep end and receiving constructive criticism. The key takeaway I've learnt is - to fail often and fail swiftly. Ask all the questions. Say all the things. Don't over think it. Listen to all the feedback. Take action. Most importantly, leave the ego at the door. It doesn't add any value. Also, if you've grown complacent, you haven't succeeded. 
 
-Being a designer has taught me the process of iteration, the importance of collaboration and the value of emotional intelligence. 
+Being a designer has taught me about the process of iteration, the importance of collaboration and the value of emotional intelligence. 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
