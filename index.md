@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-I grew up in Manurewa, South Auckland and attended Manurewa High School. I went on to attend Whitecliffe College of Arts and Design for two years before cross-crediting to Massey University to complete a Bachelor of Design with first class honours majoring in Visual Communication. I am half Filipino and one quarter Lebanese. Coming from a diverse family and growing up in a diverse area has taught me to appreciate culture and diversity, especially in the work place.
+I am half Filipino/Lebanese. I grew up in South Auckland where I attended Manurewa High School and went on to attend Massey University where I completed a Bachelor of Design majoring in Visual Communication. Growing up in a diverse area and coming from a family of opposing  cultures has taught me how important culture and diversity is, especially in the work place. 
 
-My career in design began as an in-house designer at a manufacturing company. After gaining two years experience, I then moved to London where I worked as a Designer and Marketing Executive on a 6 month contract. I then travelled around Europe and Hong Kong before moving back to New Zealand to focus on my career. 
+I've learnt more from my failures than anything else in life. There's something to be said for being thrown in the deep end and receiving constructive criticism. The key takeaway I've learnt is - to fail often and fail swiftly. Ask all the questions. Say all the things. Don't over think it. Listen to all the feedback. Take action. Most importantly, leave the ego at the door. It doesn't add any value. Also, if you've grown complacent, you haven't succeeded. 
+
+Being a designer has taught me the process of iteration, the importance of collaboration and the value of emotional intelligence. 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
