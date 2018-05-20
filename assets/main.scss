@@ -4,7 +4,7 @@
 @import "minima";
 
 body {
-  font-family: sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 12px;
 }
 
@@ -12,5 +12,10 @@ body {
     border: none;
     min-height: 55.95px;
     position: relative;
+}
+
+.site-title {
+  font-size: 20px;
+  padding-top: 20px;
 }
 
