@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Work 1"
+title: "test"
 categories: misc
 ---
 
