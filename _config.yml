@@ -6,6 +6,6 @@ description: > # this means to ignore newlines until "twitter_username:"
   
 header_pages:
  - about.md
- - work.md
+ - words.md
  
 theme: minima
