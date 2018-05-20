@@ -9,8 +9,9 @@ body {
   color: #828282;
 }
 
-a:-webkit-any-link {
+a {
   transition: 0.3s;
+  color: #000;
 }
 
 a:hover {
