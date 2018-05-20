@@ -4,8 +4,8 @@ email:
 description: > # this means to ignore newlines until "twitter_username:"
   
 header_pages:
- - about.md
- - words.md
+- about.md
+- words.md
  
  minima:
   date_format: "%b %-d, %Y"
