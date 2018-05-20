@@ -3,9 +3,9 @@ author:
 email: 
 description: > # this means to ignore newlines until "twitter_username:"
   Designer of things.
-
-theme: minima
-
+  
 header_pages:
   - about.md
   - work.md
+
+theme: minima
