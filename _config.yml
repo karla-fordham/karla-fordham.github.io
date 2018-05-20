@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "twitter_username:"
   Designer of things.
   
 header_pages:
- - about.html
- - work.html
+ - about.md
+ - work.md
  
 theme: minima
