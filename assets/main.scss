@@ -9,6 +9,11 @@ body {
   color: #828282;
 }
 
+a:hover {
+  text-decoration: none;
+  transition: 3s;
+}
+
 .site-header {
     border: none;
     min-height: 55.95px;
@@ -16,9 +21,14 @@ body {
 }
 
 .site-title {
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 400;
-  padding-top: 20px;
+  padding-top: 10px;
   letter-spacing: -0.5px;
+}
+
+.site-nav {
+  line-height: 80px;
+  border: none;
 }
 
