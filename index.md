@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i|Roboto:400,400i,700,700i" rel="stylesheet">
 
 I am half Filipino/Lebanese. I grew up in South Auckland where I attended Manurewa High School and went on to attend Massey University to complete a Bachelor of Design majoring in Visual Communication. Growing up in a diverse community with a family of contrasting cultures has taught me how essential culture and diversity is, especially in the work place. 
 
