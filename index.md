@@ -5,4 +5,9 @@ layout: default
 
 Designer.
 
-<h2 class="footer-heading">Karla<h2>
+<footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+    <h2 class="footer-heading"></h2>
+      </div>
