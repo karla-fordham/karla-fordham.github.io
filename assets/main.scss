@@ -9,9 +9,13 @@ body {
   color: #828282;
 }
 
+a {
+  transition: 0.3s;
+}
+
 a:hover {
   text-decoration: none;
-  transition: 3s;
+  color: #eee;
 }
 
 .site-header {
