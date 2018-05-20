@@ -1,7 +1,6 @@
 ---
-layout: default
-title: "test"
-categories: misc
+layout: post
+title: test
 ---
 
 test
