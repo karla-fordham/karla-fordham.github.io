@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page](2018-05-20-super-short-article.md).
+[Link to another page](/_posts/2018-05-20-super-short-article.md).
 
 There should be whitespace between paragraphs.
 
