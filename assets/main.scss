@@ -9,6 +9,15 @@ body {
   color: #828282;
 }
 
+.wrapper {
+    max-width: -webkit-calc(1200px - (30px * 2));
+    max-width: calc(1200px - (30px * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
 a {
   transition: 0.3s;
   color: #000;
